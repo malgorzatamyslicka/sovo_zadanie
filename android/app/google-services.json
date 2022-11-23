@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508881276653",
+    "project_id": "sovo-zadanie",
+    "storage_bucket": "sovo-zadanie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508881276653:android:a421fecfddc8857c9d86e4",
+        "android_client_info": {
+          "package_name": "com.malgorzatamyslicka.sovo_zadanie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508881276653-9urd9gjtsqmc0vgb04ltoiq35k0s48lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_-MPr7t6tTXEnh9moWM6bF_huNh2ZZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508881276653-9urd9gjtsqmc0vgb04ltoiq35k0s48lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
